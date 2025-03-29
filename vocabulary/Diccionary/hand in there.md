@@ -1,6 +1,6 @@
 
 🇪🇸Spanish: aguanta / resiste
-
+#movievocabulary
 hand in there:: aguante / resiste 
 
 es una frase hecha. 

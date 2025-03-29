@@ -2,6 +2,7 @@
 🇪🇸Spanish:Salir de... 
 
 📌 **Example:**  
+#movievocabulary
 Come out of the room::: Sal del cuarto
 
 Come out the door 
