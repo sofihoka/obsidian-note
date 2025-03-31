@@ -4,4 +4,6 @@
 ❌ **Antonyms:** boring, dull  
 🔊 **Pronunciation:** [ˈɪn.trəs.tɪŋ]  
 🎧 **Audio:** [🔊 Click aquí](https://dict.youdao.com/dictvoice?audio=interesting&type=2)
+
+
 🔗 **Link to Full Note:** [[interesting]]

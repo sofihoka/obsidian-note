@@ -7,6 +7,13 @@
 //2.atajo command + p
 //3.open template insert modal
 //4.elegir template add_to_vocabulary
+
+// Pedir la palabra al usuario
+    let word = await tp.system.prompt("Enter the word:");
+    
+    // Si el usuario no ingresa nada, salir
+    if (!word) return "";
+    
 const vocabPath = "vocabulary/vocabulary.md"; 
 
 // Obtener el archivo actual
@@ -45,4 +52,8 @@ await app.vault.modify(vocabFile, Array.from(updatedVocab).join("\n"));
 
 // Notificación de éxito
 new Notice("✅ Vocabulario agregado correctamente.");
+
+module.exports = async function(tp) {
+    return await tp.system.prompt("Enter the word:");
+};
 %>
