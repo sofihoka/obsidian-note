@@ -186,11 +186,10 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "media-extended:Open media": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "833feb01c1ac06b2",
+  "active": "047cda4c2febaa40",
   "lastOpenFiles": [
     "vocabulary/Diccionary/Avoid.md",
     "vocabulary/Diccionary/Astouding.md",
