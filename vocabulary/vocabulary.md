@@ -8,7 +8,6 @@ cards-deck: vocabulary
 <!--SR:!2025-04-03,3,250!2000-01-01,1,250-->
 [[Improving]]::: Mejorar
 ^1743478254613
-
 [[Come out]] of the room::: Sal del cuarto
 ^1743478254616
 [[overdue]]::: pendiente, atrasado
