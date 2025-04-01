@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/Diccionary/Astouding.md",
+                "file": "vocabulary/vocabulary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Astouding"
+              "title": "vocabulary"
             }
           }
         ]
@@ -178,6 +178,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -186,29 +187,30 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "833feb01c1ac06b2",
+  "active": "047cda4c2febaa40",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "vocabulary/Diccionary/Astouding.md",
-    "vocabulary/Diccionary/Avoid.md",
-    "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
     "Notas extras.md",
     "Templates/Vocabulary template.md",
     "Templates/add_to_vocabulary.md",
-    "Grammar/Verb + ~ing.md",
-    "Class/March 28th.md",
-    "vocabulary/Diccionary/interesting.md",
+    "vocabulary/Diccionary/Astouding.md",
     "vocabulary/Diccionary/Improving.md",
+    "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
     "vocabulary/Diccionary/hand in there.md",
     "vocabulary/Diccionary/Come out.md",
+    "vocabulary/Diccionary/Avoid.md",
+    "Grammar/Verb + ~ing.md",
+    "vocabulary/vocabulary.md",
+    "conflict-files-obsidian-git.md",
+    "Class/March 28th.md",
+    "vocabulary/Diccionary/interesting.md",
     "vocabulary/Diccionary/overdue.md",
     "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman?.md",
     "Untitled.md",
     "Untitled.canvas",
-    "vocabulary/vocabulary.md",
     "Grammar",
     "Utils/Utils.md",
     "Class",
