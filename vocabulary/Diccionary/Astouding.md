@@ -3,7 +3,6 @@
 
 <audio src="https://dict.youdao.com/dictvoice?audio=Astounding&amp;type=1" controls></audio>
 
-
 <audio src="https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=astouding" controls></audio>
 
 🎧 **Audio:** [🔊 Click aquí](https://dict.youdao.com/dictvoice?audio=astouding&type=2)
