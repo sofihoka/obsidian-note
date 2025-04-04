@@ -3,7 +3,7 @@ quiero conectarlo a anki para tener las flashcard mas a mano.
 Esto es para poder tomar notas en English, me tiene que facilitar el estudio no complicarmela.
 
 quiero poder sincronizarlo desde cualquier lugar para acceder a las notas.
-
+	
 Quiero poder hacer las flashcard automaticamente, para que se pueda estudiarla con el celular.
 	-extras: agregar audio, imagen
 	quiero poder desde el celu, mandao un mail o msj algo rapido si me se una palabra nueva, que se agregue

@@ -1,0 +1,82 @@
+#flashcards 
+afraid :: asustado
+alive :: vivo
+angry :: enojado
+annoyed :: irritado
+annoying :: fastidioso
+atrocious :: atroz
+apart :: aparte
+arrogant :: arrogante
+adorable :: adorable
+abrupt :: abrupto
+acidic :: ácido
+average :: promedio
+apprehensive :: aprensivo
+ashamed :: avergonzado
+aggressive :: agresivo
+attractive :: atractivo
+adventurous :: aventurero
+astonishing :: asombroso
+astonished :: asombrado
+anxious :: ansioso
+alert :: atento
+amused :: divertido
+bad :: malo
+beautiful :: lindo(a)
+big :: grande
+boring :: aburrido
+broken :: roto
+busy :: ocupado
+blurry :: borroso
+breezy :: ventoso
+bent :: doblado
+blush :: sonrojado
+brave :: valiente
+bitter :: amargo
+bored :: aburrido (persona)
+boring :: aburrido (objeto/lugar)
+bright :: brillante
+cheap :: barato
+colorful :: vistoso
+charming :: encantado
+chubby :: rechoncho
+creepy :: horripilante
+clear :: claro
+clumsy :: torpe
+cruel :: cruel
+clean :: limpio
+creative :: creativo
+calm :: calmado
+cheerful :: alegre
+comfortable :: cómodo
+cold / chilly :: frío
+confused :: confundido
+cloudy :: nublado
+careful :: cuidadoso
+cool / fresh :: fresco
+cooked :: cocido
+courageous :: valiente
+dangerous :: peligroso
+dark :: oscuro
+dead :: muerto
+distinct :: distinto
+depressed :: deprimido
+disturbed :: perturbado (persona)
+disturbing :: perturbador (objeto/lugar)
+depressing :: deprimente
+depressive :: depresivo
+determined :: determinado
+deep :: profundo
+different :: diferente
+distinct :: distinto
+difficult :: difícil
+delicious :: delicioso
+done :: hecho
+delightful :: encantador
+dry :: seco
+dirty :: sucio
+dizzy :: mareado
+early :: temprano
+easy :: fácil
+empty :: vacío
+eager :: ansioso

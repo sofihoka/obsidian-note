@@ -44,3 +44,10 @@ https://www.youtube.com/watch?v=-8h1sZ6nyY0&t=6s
 
 code clean
 
+voy hacer la sesiones que me falta de la unit 2.
+una a la maniana y la otra la otra a la tarde.
+
+ver si puedo escucar el libro del code clean.
+
+
+

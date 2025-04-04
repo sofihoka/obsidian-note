@@ -8,35 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "833feb01c1ac06b2",
+            "id": "94a71c40b5ab6a10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
+                "file": "vocabulary/Adjective.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DoYouWantToBuildASnowman"
+              "title": "Adjective"
             }
           },
           {
-            "id": "94a71c40b5ab6a10",
+            "id": "0245d50815c18d1c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "vocabulary/Diccionary/Astouding.md",
-                "bFile": "vocabulary/Diccionary/Astouding.md",
-                "aRef": ""
+                "file": "vocabulary/Adjective type.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Astouding"
+              "icon": "lucide-file",
+              "title": "Adjective type"
+            }
+          },
+          {
+            "id": "61e267f8561293c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/April 4th.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "April 4th"
+            }
+          },
+          {
+            "id": "3bfce6511040b133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reading/clean code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "clean code"
+            }
+          },
+          {
+            "id": "236641802c110f0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class/April 4th.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "April 4th"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Class/April 4th.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of April 4th"
             }
           },
           {
@@ -193,7 +235,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,23 +247,31 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "94a71c40b5ab6a10",
+  "active": "047cda4c2febaa40",
   "lastOpenFiles": [
+    "reading/clean code.md",
+    "Class/April 4th.md",
+    "vocabulary/Diccionary/knowledge.md",
+    "Templates/Vocabulary template.md",
+    "reading",
     "Notas extras.md",
+    "2025-04-03.md",
+    "prueba 2.md",
+    "vocabulary/Adjective type.md",
+    "vocabulary/Adjective.md",
+    "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
+    "vocabulary/vocabulary.md",
+    "Love Is an Open Door.md",
+    "vocabulary/Diccionary/Avoid.md",
+    "Class/March 28th.md",
+    "Grammar/Verb + ~ing.md",
     "vocabulary/Diccionary/Improving.md",
     "vocabulary/Diccionary/overdue.md",
     "vocabulary/Diccionary/Astouding.md",
-    "Love Is an Open Door.md",
-    "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
-    "vocabulary/vocabulary.md",
-    "Templates/Vocabulary template.md",
     "Templates/add_to_vocabulary.md",
     "vocabulary/Diccionary/hand in there.md",
     "vocabulary/Diccionary/Come out.md",
-    "vocabulary/Diccionary/Avoid.md",
-    "Grammar/Verb + ~ing.md",
     "conflict-files-obsidian-git.md",
-    "Class/March 28th.md",
     "vocabulary/Diccionary/interesting.md",
     "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman?.md",
     "Untitled.canvas",
@@ -234,17 +283,9 @@
     "名称未設定フォルダ",
     "vocabulary/Diccionary",
     "vocabulary",
-    "Vocabulary/interesting.md",
-    "Vocabulary/Improving.md",
-    "Vocabulary/Astouding.md",
     "Vocabulary",
-    "2025-03-26.md",
     "vocabulary/MovieVocabulary/\"Do You Want to Build a Snowman?\"",
-    "Flash Card.md",
-    "URL.md",
     "Utils",
-    "Welcome.md",
-    "Templates",
     "Vocabulary/Untitled.canvas"
   ]
 }
