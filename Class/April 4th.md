@@ -10,9 +10,11 @@ scruffy
 
 homework, hacer el mismo parrofo pero de como estas vestida hoy. 
 
-My name is Sofia. I´m software developers. 
+My name is Sofia. I’m a software developer.  
+I’m wearing a white sweater and black Oxford jeans.  
+I am a little smart-casual today, but normally I’m pretty scruffy.  
+At the weekend, I wear casual dresses or shorts and a T-shirt.
 
-I'm wearing a white sweter and black oxford jeans. 
-I am a little smarty causual today, but normally I'm pretty scruffy usually.
-At the weekend I wear a casual dresser or short and a t-shirt. 
+homework: read
+[BBC Learning English - Course: lower intermediate / Unit 2 / Session 4 / Activity 1](https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-2/session-4)
 
