@@ -8,35 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94a71c40b5ab6a10",
+            "id": "833feb01c1ac06b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/Adjective.md",
+                "file": "Class/April 3th.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjective"
+              "title": "April 3th"
             }
           },
           {
-            "id": "0245d50815c18d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vocabulary/Adjective type.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Adjective type"
-            }
-          },
-          {
-            "id": "61e267f8561293c9",
+            "id": "4317d8da80218259",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,35 +36,35 @@
             }
           },
           {
-            "id": "3bfce6511040b133",
+            "id": "d472eb568da8439e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reading/clean code.md",
+                "file": "Grammar/Present simple and present continuous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "clean code"
+              "title": "Present simple and present continuous"
             }
           },
           {
-            "id": "236641802c110f0d",
+            "id": "1feae148d8cd9908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/April 4th.md",
+                "file": "vocabulary/Diccionary/Avoid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "April 4th"
+              "title": "Avoid"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/April 4th.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of April 4th"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -225,6 +211,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d6a8925390768808",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 5
@@ -243,43 +239,42 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "047cda4c2febaa40",
+  "active": "c20f8f8bf661b9d4",
   "lastOpenFiles": [
-    "reading/clean code.md",
+    "Class/April 3th.md",
+    "Grammar/Present simple and present continuous.md",
     "Class/April 4th.md",
+    "reading/clean code.md",
     "vocabulary/Diccionary/knowledge.md",
-    "Templates/Vocabulary template.md",
-    "reading",
-    "Notas extras.md",
-    "2025-04-03.md",
-    "prueba 2.md",
-    "vocabulary/Adjective type.md",
-    "vocabulary/Adjective.md",
     "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
-    "vocabulary/vocabulary.md",
-    "Love Is an Open Door.md",
-    "vocabulary/Diccionary/Avoid.md",
+    "vocabulary/Adjective.md",
+    "vocabulary/Adjective type.md",
+    "reading",
+    "prueba 2.md",
+    "2025-04-03.md",
     "Class/March 28th.md",
-    "Grammar/Verb + ~ing.md",
-    "vocabulary/Diccionary/Improving.md",
-    "vocabulary/Diccionary/overdue.md",
-    "vocabulary/Diccionary/Astouding.md",
-    "Templates/add_to_vocabulary.md",
+    "Notas extras.md",
+    "Love Is an Open Door.md",
     "vocabulary/Diccionary/hand in there.md",
+    "Templates/Vocabulary template.md",
+    "Templates/add_to_vocabulary.md",
+    "vocabulary/Diccionary/Avoid.md",
+    "Utils/Utils.md",
     "vocabulary/Diccionary/Come out.md",
-    "conflict-files-obsidian-git.md",
+    "vocabulary/Diccionary/Astouding.md",
+    "Grammar/Verb + ~ing.md",
+    "vocabulary/Diccionary/overdue.md",
     "vocabulary/Diccionary/interesting.md",
+    "vocabulary/Diccionary/Improving.md",
     "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman?.md",
     "Untitled.canvas",
+    "vocabulary/vocabulary.md",
     "Grammar",
-    "Utils/Utils.md",
     "Class",
     "vocabulary/MovieVocabulary",
-    "vocabulary/MovieVocabulary/Do You Want to Build a Snowman?.md",
     "名称未設定フォルダ",
     "vocabulary/Diccionary",
     "vocabulary",
