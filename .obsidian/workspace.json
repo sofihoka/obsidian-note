@@ -8,7 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "833feb01c1ac06b2",
+            "id": "94a71c40b5ab6a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vocabulary/Adjective.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adjective"
+            }
+          },
+          {
+            "id": "0245d50815c18d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vocabulary/Adjective type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adjective type"
+            }
+          },
+          {
+            "id": "61e267f8561293c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,48 +50,35 @@
             }
           },
           {
-            "id": "4317d8da80218259",
+            "id": "3bfce6511040b133",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/April 4th.md",
+                "file": "reading/clean code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "April 4th"
+              "title": "clean code"
             }
           },
           {
-            "id": "d472eb568da8439e",
+            "id": "236641802c110f0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Class/April 4th.md",
+                "file": "Utils/Utils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "April 4th"
-            }
-          },
-          {
-            "id": "1feae148d8cd9908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vocabulary/Diccionary/Avoid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Avoid"
+              "title": "Utils"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Class/April 4th.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of April 4th"
             }
           },
           {
@@ -210,16 +225,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "d6a8925390768808",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
         "currentTab": 5
@@ -238,39 +243,41 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "remotely-save:Remotely Save": false
     }
   },
-  "active": "047cda4c2febaa40",
+  "active": "236641802c110f0d",
   "lastOpenFiles": [
-    "Class/April 3th.md",
-    "Class/April 4th.md",
-    "Class/March 28th.md",
-    "Love Is an Open Door.md",
-    "2025-04-03.md",
     "Notas extras.md",
+    "Class/April 4th.md",
     "Grammar/Present simple and present continuous.md",
-    "Grammar/Verb + ~ing.md",
+    "Class/April 3th.md",
     "reading/clean code.md",
     "vocabulary/Diccionary/knowledge.md",
-    "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
-    "vocabulary/Adjective.md",
-    "vocabulary/Adjective type.md",
-    "reading",
-    "prueba 2.md",
-    "vocabulary/Diccionary/hand in there.md",
     "Templates/Vocabulary template.md",
-    "Templates/add_to_vocabulary.md",
+    "reading",
+    "2025-04-03.md",
+    "prueba 2.md",
+    "vocabulary/Adjective type.md",
+    "vocabulary/Adjective.md",
+    "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
+    "vocabulary/vocabulary.md",
+    "Love Is an Open Door.md",
     "vocabulary/Diccionary/Avoid.md",
-    "Utils/Utils.md",
-    "vocabulary/Diccionary/Come out.md",
-    "vocabulary/Diccionary/Astouding.md",
-    "vocabulary/Diccionary/overdue.md",
-    "vocabulary/Diccionary/interesting.md",
+    "Class/March 28th.md",
+    "Grammar/Verb + ~ing.md",
     "vocabulary/Diccionary/Improving.md",
+    "vocabulary/Diccionary/overdue.md",
+    "vocabulary/Diccionary/Astouding.md",
+    "Templates/add_to_vocabulary.md",
+    "vocabulary/Diccionary/hand in there.md",
+    "vocabulary/Diccionary/Come out.md",
+    "conflict-files-obsidian-git.md",
+    "vocabulary/Diccionary/interesting.md",
     "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman?.md",
     "Untitled.canvas",
-    "vocabulary/vocabulary.md",
     "Grammar",
     "Class",
     "vocabulary/MovieVocabulary",

@@ -7,3 +7,5 @@
 
 <iframe src="https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=hand+in+there" allow="autoplay"></iframe
 
+
+https://dailydictation.com/exercises/short-stories/1-first-snowfall.1/listen-and-type
