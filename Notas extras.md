@@ -15,9 +15,9 @@ quiero hacer la planilla de vocabulary
 	-tiene que tener el audio o video
 	-tiene que agregar la palabra a vocabulary
 	
-quiero ver si conecto un calendario, quiero tener algo con check list para poner si hice algo listening, writening, speaking.....o algo para ver mi progreso establecer objetivos.
+quiero ver si conecto un calendario, quiero tener algo con check list para poner si hice algo listening, writening, speaking.....o algo para ver mi progreso establecer objetivos. Dropppbox
 
-
+desde la pc
 
 
 

@@ -15,6 +15,8 @@ I’m wearing a white sweater and black Oxford jeans.
 I am a little smart-casual today, but normally I’m pretty scruffy.  
 At the weekend, I wear casual dresses or shorts and a T-shirt.
 
+I
+
 homework: read
 [BBC Learning English - Course: lower intermediate / Unit 2 / Session 4 / Activity 1](https://www.bbc.co.uk/learningenglish/english/course/lower-intermediate/unit-2/session-4)
 
