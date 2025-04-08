@@ -8,77 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94a71c40b5ab6a10",
+            "id": "d472eb568da8439e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/Adjective.md",
+                "file": "Notas extras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjective"
+              "title": "Notas extras"
             }
           },
           {
-            "id": "0245d50815c18d1c",
+            "id": "1feae148d8cd9908",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vocabulary/Adjective type.md",
+                "file": "vocabulary/Diccionary/Avoid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjective type"
-            }
-          },
-          {
-            "id": "61e267f8561293c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Class/April 4th.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "April 4th"
-            }
-          },
-          {
-            "id": "3bfce6511040b133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "reading/clean code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "clean code"
-            }
-          },
-          {
-            "id": "236641802c110f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammar/Present simple and present continuous.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Present simple and present continuous"
+              "title": "Avoid"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,11 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notas extras.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Notas extras"
             }
           },
           {
@@ -197,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Class/April 4th.md",
+                "file": "Notas extras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of April 4th"
+              "title": "Outline of Notas extras"
             }
           },
           {
@@ -225,6 +183,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "d6a8925390768808",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
         "currentTab": 5
@@ -235,6 +203,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -243,41 +212,42 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "templater-obsidian:Templater": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "remotely-save:Remotely Save": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "236641802c110f0d",
+  "active": "047cda4c2febaa40",
   "lastOpenFiles": [
-    "Pasted image 20250405230254.png",
-    "Class/April 4th.md",
+    "vocabulary/Diccionary/Improving.md",
+    "EnglishDaily/2025-04-07.md",
+    "EnglishDaily/April 3th.md",
+    "Templates/English day template.md",
+    "vocabulary/Diccionary/through.md",
+    "vocabulary/Diccionary/Tough.md",
+    "vocabulary/Diccionary/Astouding.md",
+    "vocabulary/Diccionary/Taught.md",
     "Notas extras.md",
-    "Love Is an Open Door.md",
-    "prueba 2.md",
-    "Utils/Utils.md",
+    "EnglishDaily/2025-04-04.md",
+    "Templates/Vocabulary template.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Grammar/Verb + ~ing.md",
     "Grammar/Present simple and present continuous.md",
     "Class/April 3th.md",
+    "Thought.md",
+    "EnglishDaily/March 28th.md",
+    "vocabulary/Diccionary/hoodie.md",
+    "vocabulary/MovieVocabulary/Love Is an Open Door.md",
+    "EnglishDaily",
+    "Class/April 4th.md",
+    "Class/March 28th.md",
+    "prueba 2.md",
+    "Pasted image 20250405230254.png",
+    "Love Is an Open Door.md",
+    "2025-04-03.md",
     "reading/clean code.md",
     "vocabulary/Diccionary/knowledge.md",
-    "Templates/Vocabulary template.md",
-    "reading",
-    "2025-04-03.md",
-    "vocabulary/Adjective type.md",
-    "vocabulary/Adjective.md",
     "vocabulary/MovieVocabulary/DoYouWantToBuildASnowman.md",
-    "vocabulary/vocabulary.md",
-    "vocabulary/Diccionary/Avoid.md",
-    "Class/March 28th.md",
-    "Grammar/Verb + ~ing.md",
-    "vocabulary/Diccionary/Improving.md",
-    "vocabulary/Diccionary/overdue.md",
-    "vocabulary/Diccionary/Astouding.md",
-    "Templates/add_to_vocabulary.md",
-    "vocabulary/Diccionary/hand in there.md",
-    "vocabulary/Diccionary/Come out.md",
-    "conflict-files-obsidian-git.md",
-    "Untitled.canvas",
+    "reading",
     "Grammar",
     "Class",
     "vocabulary/MovieVocabulary",
@@ -286,7 +256,6 @@
     "vocabulary",
     "Vocabulary",
     "vocabulary/MovieVocabulary/\"Do You Want to Build a Snowman?\"",
-    "Utils",
     "Vocabulary/Untitled.canvas"
   ]
 }

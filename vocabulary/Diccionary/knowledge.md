@@ -9,7 +9,7 @@
 The Robert C. Martin Clean Code Collection (Collection)
 Martin, Robert C.
 🔊 **Pronunciation:**  
-https://dict.youdao.com/dictvoice?audio= knowledge &type=2
+https://dict.youdao.com/dictvoice?audio=knowledge &type=2
 [🔊 Click aquí](https://dict.youdao.com/dictvoice?audio={{word}}&type=2)
 
 

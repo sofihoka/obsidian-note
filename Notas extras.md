@@ -19,6 +19,15 @@ quiero ver si conecto un calendario, quiero tener algo con check list para poner
 
 desde la pc
 
+un blog copiando un poco a 
+https://veronikamark.beehiiv.com/p/march-2025-favorites-what-i-ve-been-reading-watching-loving
+
+What I'm reading, what I'm listening to , What I'm watching, tools???)
+daily blog?) puede ser semanal o mensual? pensarlo.
+
+
+
+
 
 
 
